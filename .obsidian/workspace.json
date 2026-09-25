@@ -11,14 +11,10 @@
             "id": "0e0a4c83b6636d99",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-SDN-Fundamentos/lab01-mininet_basico/README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Nova aba"
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-SDN-Fundamentos/lab01-mininet_basico/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-SDN-Fundamentos/lab01-mininet_basico/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +155,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-SDN-Fundamentos/lab01-mininet_basico/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,6 +183,10 @@
   },
   "active": "0e0a4c83b6636d99",
   "lastOpenFiles": [
+    "01-SDN-Fundamentos/lab01-mininet_basico/commands.sh",
+    "01-SDN-Fundamentos/lab01-mininet_basico/README.md",
+    "01-SDN-Fundamentos/lab01-mininet_basico",
+    "01-SDN-Fundamentos",
     "LICENSE"
   ]
 }
